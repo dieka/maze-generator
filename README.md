@@ -2,6 +2,10 @@
 
 Simple Maze Generator is a javascript project for dealing with maze generate with console application.
 
+## Prerequisites
+
+1. Node.js (Javascript Runtime)
+
 ## Usage
 
 Use the bash / command line to run maze generator
