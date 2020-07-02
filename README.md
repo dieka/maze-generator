@@ -1,6 +1,6 @@
 # Simple Maze Generator
 
-Simple Maze Generator is a Javascript project for dealing with maze generate with console application.
+Simple Maze Generator is a javascript project for dealing with maze generate with console application.
 
 ## Usage
 
